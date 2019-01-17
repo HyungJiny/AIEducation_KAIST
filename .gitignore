@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# files for class to provide
+/data
+/lab_code
+/lecture
